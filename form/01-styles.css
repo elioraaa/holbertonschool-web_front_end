@@ -657,7 +657,7 @@ ul.row {
   padding-left: 7rem;
 }
 
-.post-comments>.section-title{
+.post-comments .section-title{
   font-variant: small-caps;
 }
 
@@ -670,4 +670,3 @@ form{
   padding: 1rem 0;
   margin: 0;
 }
-
